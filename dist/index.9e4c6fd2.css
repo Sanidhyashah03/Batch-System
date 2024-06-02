@@ -1,0 +1,271 @@
+.app-landing, .page-free {
+  margin: 0;
+}
+
+.app-landing-page-container {
+  font-weight: 600;
+  line-height: 117.52%;
+  top: 276.3px;
+  left: 116.2px;
+}
+
+.app-landing-page-container, .source-files, .super-awesome {
+  letter-spacing: -.04em;
+  position: absolute;
+}
+
+.super-awesome {
+  font-size: 51.3px;
+  font-weight: 600;
+  line-height: 117.52%;
+  top: 479px;
+  left: 116.2px;
+}
+
+.source-files {
+  color: #00000080;
+  font-size: 40.6px;
+  line-height: 48px;
+  top: 548px;
+  left: 116px;
+}
+
+.frame-child {
+  background-color: #000;
+  border-radius: 47.92px;
+  width: 234px;
+  height: 48px;
+  display: none;
+  position: relative;
+}
+
+.free-template {
+  letter-spacing: -.04em;
+  color: #fff;
+  text-align: left;
+  z-index: 1;
+  font-family: Inter;
+  font-size: 28.8px;
+  line-height: 34px;
+  position: relative;
+}
+
+.rectangle-parent {
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #000;
+  border: 0;
+  border-radius: 47.92px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 8px 25px 6px;
+  display: flex;
+  position: absolute;
+  top: 189px;
+  left: 190px;
+}
+
+.rectangle-parent:hover {
+  background-color: #333;
+}
+
+.frame-item {
+  background-color: #fff;
+  border-radius: 95.85px;
+  width: 146px;
+  height: 92px;
+  display: none;
+  position: relative;
+  box-shadow: 0 63.9px 95.85px #3a3a3a33;
+}
+
+.figma-icon {
+  z-index: 1;
+  flex-shrink: 0;
+  width: 55.1px;
+  height: 55.1px;
+  position: relative;
+  overflow: hidden;
+}
+
+.rectangle-group {
+  background-color: #fff;
+  border-radius: 95.85px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 18.4px 44px 18.5px 46px;
+  display: flex;
+  position: absolute;
+  top: 635px;
+  left: 102px;
+  box-shadow: 0 63.9px 95.85px #3a3a3a33;
+}
+
+.wrapper-group-1-child {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 45px;
+  left: 0;
+  transform: scale(3.066);
+}
+
+.wrapper-group-1 {
+  justify-content: center;
+  align-items: center;
+  width: 64.7px;
+  height: 64.7px;
+  display: flex;
+  position: absolute;
+  top: 177px;
+  left: 110px;
+}
+
+.desktop-3-2 {
+  object-fit: cover;
+  width: 253px;
+  height: 1034px;
+  position: absolute;
+  top: 21px;
+  left: 812.1px;
+}
+
+.div, .separator, .separator1 {
+  filter: drop-shadow(16px 16px 95.85px #a8a8a81a);
+  transform-origin: 0 0;
+  z-index: 1;
+  width: 291.8px;
+  height: 631.9px;
+  position: absolute;
+  top: 277.36px;
+  left: 356.9px;
+  transform: rotate(-20.2deg);
+}
+
+.div, .separator1 {
+  z-index: 2;
+  top: 242.66px;
+  left: 0;
+}
+
+.div {
+  z-index: 3;
+  width: 291.7px;
+  height: 631.6px;
+  top: -340.51px;
+  left: 129.5px;
+  transform: rotate(-20.1deg);
+}
+
+.desktop-3-1 {
+  z-index: 4;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 43px;
+  left: 31px;
+  transform: scale(1.246);
+}
+
+.wrapper-desktop-3-1 {
+  z-index: 4;
+  justify-content: center;
+  align-items: center;
+  width: 814px;
+  height: 3328px;
+  display: flex;
+  position: absolute;
+  top: 73px;
+  left: 112.1px;
+}
+
+.desktop-3-2-parent {
+  width: 1065.1px;
+  height: 960px;
+  position: absolute;
+  top: 0;
+  left: 507.9px;
+}
+
+.preview {
+  debug_commit: bf4bc93;
+  text-align: left;
+  color: #000;
+  background-color: #f2f2f2;
+  flex-shrink: 0;
+  width: 1638px;
+  max-width: 103%;
+  height: 958px;
+  margin-left: -10px;
+  font-family: Inter;
+  font-size: 71.8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.iphone-13-pro-front-icon {
+  object-fit: contain;
+  z-index: 5;
+  width: 533.7px;
+  height: 793px;
+  position: absolute;
+  bottom: -576px;
+  left: 294px;
+  margin: 0 !important;
+}
+
+.freebie {
+  box-sizing: border-box;
+  letter-spacing: normal;
+  background-color: #fff;
+  border-radius: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: 960px;
+  padding: 0 0 2px;
+  line-height: normal;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 750px) {
+  .app-landing-page-container {
+    font-size: 57px;
+    line-height: 68px;
+  }
+
+  .super-awesome {
+    font-size: 41px;
+    line-height: 48px;
+  }
+
+  .source-files {
+    font-size: 32px;
+    line-height: 38px;
+  }
+}
+
+@media screen and (width <= 450px) {
+  .app-landing-page-container {
+    font-size: 43px;
+    line-height: 51px;
+  }
+
+  .super-awesome {
+    font-size: 31px;
+    line-height: 36px;
+  }
+
+  .source-files {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
